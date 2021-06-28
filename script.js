@@ -1,6 +1,6 @@
 const firstArray = ["Hello", "Hi", "Howdy", "Greetings", "Good day"];
 const secondArray = ["user", "person", "human", "earthling", "mortal"];
-const ThridArray = ["have a great day", "you will shine today", "you are going to smash today", "you are important", "remember your worth"];
+const ThridArray = ["have a great day", "you will shine today", "you are going to smash today", "you are important", "remember your worth", "all your dreams can come true", "don’t limit yourself", "everything you can imagine is real"];
 
 
 function pickRandomWordInArray (array) {
