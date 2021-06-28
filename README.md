@@ -12,7 +12,8 @@ Although the actual JavaScript used is basic, this project allowed me to experie
 - Linux command line
 
 ## Screenshots
-![Example screenshot](![mixedMessages](https://user-images.githubusercontent.com/76476479/123654586-1fdf0b00-d826-11eb-853f-3ad61b882f5c.png))
+![screenshot](![mixedMessages](https://user-images.githubusercontent.com/76476479/123656331-b8c25600-d827-11eb-8af4-d064b517e981.png)
+)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Project Status
