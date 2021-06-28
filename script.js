@@ -10,3 +10,14 @@ function pickRandomWordInArray (array) {
     randomWord = array[randomIndex];
     return randomWord;
 }
+
+function factoryMessage() {
+    return {
+        firstPart: pickRandomWordInArray(firstArray),
+        secondPart: pickRandomWordInArray(secondArray),
+        thirdPart: pickRandomWordInArray(ThridArray),
+    }
+}
+
+const newMessage = factoryMessage();
+newMessage.formatAndPrintMessage();
