@@ -16,6 +16,15 @@ function factoryMessage() {
         firstPart: pickRandomWordInArray(firstArray),
         secondPart: pickRandomWordInArray(secondArray),
         thirdPart: pickRandomWordInArray(ThridArray),
+
+        makeFirstLetterCaps(word) {
+            const wordCap = word.charAt(0).toUpperCase() + word.slice(1);        
+            return wordCap;
+        },
+
+        formatAndPrintMessage() {
+            console.log(`${this.firstPart} ${this.secondPart}! ${this.makeFirstLetterCaps(this.thirdPart)}.`);
+        }
     }
 }
 
