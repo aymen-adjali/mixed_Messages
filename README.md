@@ -12,8 +12,7 @@ Although the actual JavaScript used is basic, this project allowed me to experie
 - Linux command line
 
 ## Screenshots
-![screenshot](![mixedMessages](https://user-images.githubusercontent.com/76476479/123656331-b8c25600-d827-11eb-8af4-d064b517e981.png)
-)
+![](images/mixedMessages.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Project Status
